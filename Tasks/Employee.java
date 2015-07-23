@@ -1,3 +1,5 @@
+package Tasks;
+
 public class Employee implements Searchable {
 
 	//6 variables which represents 6 positions 

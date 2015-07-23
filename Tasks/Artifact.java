@@ -1,3 +1,5 @@
+package Tasks;
+
 public class Artifact extends Showpiece implements Comparable<Showpiece>{
 
 	

@@ -1,3 +1,5 @@
+package Tasks;
+
 public class ArtWork extends Showpiece implements Comparable<Showpiece> {
 	
 	

@@ -1,3 +1,4 @@
+package Tasks;
 
 public interface Searchable {
 
